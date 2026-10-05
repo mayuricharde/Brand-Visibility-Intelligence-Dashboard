@@ -4,5 +4,6 @@ numpy
 matplotlib
 plotly
 sqlalchemy
-pymysql
 seaborn
+sys
+warnings
