@@ -97,7 +97,7 @@ st.markdown("""
 # LOAD DATA
 
 df = pd.read_csv(
-    r"C:\Users\mchar\brand_visibility_cleaned.csv"
+    "brand_visibility_cleaned.csv"
 )
 
 # Make a copy for dashboard filtering
