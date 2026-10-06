@@ -1,6 +1,5 @@
 import sys
 import warnings
-import requirements
 
 # Fix pandas "KeyError: warnings"
 sys.modules["warnings"] = warnings
